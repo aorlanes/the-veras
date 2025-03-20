@@ -1,7 +1,7 @@
 # The Veras Website
 Public details for the private client- and server-side repositories for https://the-veras.web.app/
 
-The wedding-website repository was templated off of my other public repo [Reusable Site Template](https://github.com/aorlanes/Reusable-Site-Template). This project was used to create the client-side repository for my wedding/engagement [website](https://the-veras.web.app). This project consists of a multi-page dynamic website. There is another repository that holds the project for the server-side equivalent. Both client- and server-side repositories are private. If you would like to see those repos, please contact me directly.
+The client-side repository was templated off of my other public repo [Reusable Site Template](https://github.com/aorlanes/Reusable-Site-Template). These projects were used to create the client-side repository for my wedding/engagement [website](https://the-veras.web.app). This project consists of a multi-page dynamic website that communicates to a server for read and write operations. The server-side project is in a separate repository. Both client- and server-side repositories are private. If you would like to see those repos, please contact me directly.
 
 ## Architecture
 
