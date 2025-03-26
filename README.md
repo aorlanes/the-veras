@@ -28,6 +28,7 @@ A lot more goals for this project, in terms of efficiencies and exploring/learni
 - [Add to Calendar](https://add-to-calendar-button.com/)
 - [Webpack](https://webpack.js.org/) (module bundler)
 - [Stripe](https://stripe.com/) (payments handler)
+- [MailerLite](https://www.mailerlite.com/) (Email subscription integration)
 - Local browser storage (technically not a service since its apart of the Javasript window, but still an important utility that's used)
 
 ### Server:
